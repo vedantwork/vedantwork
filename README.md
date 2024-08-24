@@ -1,8 +1,13 @@
-<h1 align="left">नमस्ते (namaste) 🙏🏻, I'm Vedant Vartak !</h1>
+<h1 align="left">नमस्ते (Namaste) 🙏🏻, I'm Vedant Vartak !</h1>
 
 ###
 
-<p align="left">👨‍💻 Software Developer.<br>🎓 Master of Computer Applications (MCA)<br>🚀 Passionate about exploring and applying new technologies.<br>🛠️ Enthusiast for a variety of projects.<br>📖 Enjoy working with new technologies to keep up with the evolving trends and demands of the industry.<br>🎯 Collaborate with other developers, designers, and stakeholders to turn their ideas into reality and deliver high-quality software that meets or exceeds their expectations.</p>
+<p align="left">
+-  👨‍💻 Software Developer.<br>
+-  🎓 Master of Computer Applications (MCA)<br>
+-  🚀 Passionate about exploring and applying new technologies.<br>
+-  🛠️ Enthusiast for a variety of projects.<br>📖 Enjoy working with new technologies to keep up with the evolving trends and demands of the industry.<br>
+-  🎯 Collaborate with other developers, designers, and stakeholders to turn their ideas into reality and deliver high-quality software that meets or exceeds their expectations.</p>
 
 ###
 
@@ -10,7 +15,15 @@
 
 ###
 
-<p align="left">1. Collaborated with Smallcase and Finvu to seamlessly integrate APIs, enhancing project capabilities and delivering a comprehensive solution.<br><br>2. Optimized API performance by splitting the project into data gathering and reporting, storing data in Redis for faster retrieval, and ensuring data freshness.<br><br>3. Addressed live client issues promptly with clear communication and proactive updates, strengthening problem-solving skills and fostering client loyalty.<br><br>4. Developed an automated error monitoring system for APIs, notifying designated contacts about errors other than error_code 100, improving system reliability.<br><br>5. Implemented DynamoDB for efficient data storage and retrieval, and developed a scheduled AWS Lambda function to automate item existence checks.<br><br>6. Integrated a Slack notification system to alert relevant team members of overdue items, ensuring timely action on stale items and enhancing data management practices.<br><br>7. Created a seed data script that can be optionally executed as part of the deployment process following database migrations.<br><br>8. Worked on implementing push notifications using Kafka, FastAPI, and Firebase Cloud Messaging (FCM).</p>
+<p align="left">
+1. <b>API Integration with Third-Party Providers :</b> Collaborated with Smallcase and Finvu to seamlessly integrate APIs, enhancing project capabilities and delivering a comprehensive solution.<br><br>
+2. <b>API Speed Optimization Using Redis :</b> Optimized API performance by splitting the project into data gathering and reporting, storing data in Redis for faster retrieval, and ensuring data freshness.<br><br>
+3. <b>Client Issue Resolution :</b> Addressed live client issues promptly with clear communication and proactive updates, strengthening problem-solving skills and fostering client loyalty.<br><br>
+4. <b>Automated Error Monitoring System :</b>Developed an automated error monitoring system for APIs, notifying designated contacts about errors other than error_code 100, improving system reliability.<br><br>
+5. <b>AWS DynamoDB & Lambda Automation :</b>Implemented DynamoDB for efficient data storage and retrieval, and developed a scheduled AWS Lambda function to automate item existence checks.<br><br>
+6. <b>Slack Notification Integration :</b>Integrated a Slack notification system to alert relevant team members of overdue items, ensuring timely action on stale items and enhancing data management practices.<br><br>
+7. <b>Seed Data Script Development :</b>Created a seed data script that can be optionally executed as part of the deployment process following database migrations.<br><br>
+8. <b>Push Notifications with Kafka, FastAPI, and FCM :</b>Worked on implementing push notifications using Kafka, FastAPI, and Firebase Cloud Messaging (FCM).</p>
 
 ###
 
