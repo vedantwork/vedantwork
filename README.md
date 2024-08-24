@@ -77,7 +77,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/vedantwork/vedantwork/output/snake.svg" alt="Snake animation" />
-
 ###
