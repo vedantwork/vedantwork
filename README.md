@@ -1,6 +1,7 @@
-<h1 align="left">नमस्ते (Namaste) 🙏🏻, I'm Vedant Vartak !</h1>
 
-###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&size=43&pause=1000&color=2DD400&background=00800B00&width=1024&height=100&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)+%F0%9F%99%8F%F0%9F%8F%BB%2C+I'm+Vedant+Vartak+!)](https://git.io/typing-svg)
+<hr>
+<img align='right' height='350px' width='350px' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left">
 -  👨‍💻 Software Developer.<br>
@@ -9,6 +10,9 @@
 -  🛠️ Enthusiast for a variety of projects.<br>
 -  📖 Enjoy working with new technologies to keep up with the evolving trends and demands of the industry.<br>
 -  🎯 Collaborate with other developers, designers, and stakeholders to turn their ideas into reality and deliver high-quality software that meets or exceeds their expectations.</p>
+
+<br>
+<br>
 
 ###
 
