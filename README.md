@@ -6,7 +6,8 @@
 -  👨‍💻 Software Developer.<br>
 -  🎓 Master of Computer Applications (MCA)<br>
 -  🚀 Passionate about exploring and applying new technologies.<br>
--  🛠️ Enthusiast for a variety of projects.<br>📖 Enjoy working with new technologies to keep up with the evolving trends and demands of the industry.<br>
+-  🛠️ Enthusiast for a variety of projects.<br>
+-  📖 Enjoy working with new technologies to keep up with the evolving trends and demands of the industry.<br>
 -  🎯 Collaborate with other developers, designers, and stakeholders to turn their ideas into reality and deliver high-quality software that meets or exceeds their expectations.</p>
 
 ###
