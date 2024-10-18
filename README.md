@@ -1,3 +1,5 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=vedantwork" alt="GitHub profile views counter">
+<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&size=43&pause=1000&color=2DD400&background=00800B00&width=1024&height=100&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)+%F0%9F%99%8F%F0%9F%8F%BB%2C+I'm+Vedant+Vartak+!)](https://git.io/typing-svg)
 <hr>
